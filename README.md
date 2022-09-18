@@ -17,13 +17,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m  one of the Blockchain Developer community
+- 🔭 I’m Blockchain and BackEnd Developer.
   
-- 🌱 I’m currently learning blockchain world
+- 🌱 I’m currently learning Blockchain world !
   
-- 👯 I’m looking to collaborate on blockchain postions
+- 👯 I’m looking to collaborate on Blockchain postions .
   
-- 💬 Ask me about solidity, smartContracts, JavaScript, git, sql 
+- 💬 Ask me about solidity, smartContract, JavaScript, git, sql 
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
