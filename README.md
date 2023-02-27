@@ -17,11 +17,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m Web3 Developer.
-  
-- 👯 I’m looking to collaborate on Blockchain postions .
-  
-- 💬 Ask me about Solidity, Smart Contract, JavaScript, git, sql 
+- I am a Web3 dev looking to combine everything with blockchain.
+  I have a passion for learning and sharing my knowledge with others as possible as I can.
+  you can ask me about Smart Contracts, rust, JavaScript, git, sql,...
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
