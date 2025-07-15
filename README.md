@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
 
   <!-- Ethereum -->
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=026" width="40" height="40" alt="Ethereum"/>
+  <img src="https://cdn.jsdelivr.net/gh/spothq/cryptocurrency-icons@master/128/color/eth.png" width="40" height="40" alt="Ethereum"/>
 
   <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
