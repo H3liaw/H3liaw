@@ -52,7 +52,6 @@
 <p>
   <a href="https://www.linkedin.com/in/helia-marami-847253210"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32"/></a>
   <a href="https://www.twitter.com/NoobCoder07"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32"/></a>
-  <a href="https://medium.com/@adityadeshmukh7350"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="32"/></a>
   <a href="https://github.com/H3liaw"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32"/></a>
 </p>
 
