@@ -1,62 +1,57 @@
-<p align="center">
-    <img width="200" src="https://github.com/H3liaw/helia/blob/main/sticker.png">
-</p>
+## Hello Fellow < Developers/ >! 👋
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
+<div align="center">
+  <img src="https://github.com/H3liaw/helia/blob/main/sticker.png" width="200" />
+</div>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=h3liaw.h3liaw)
 [![Github](https://img.shields.io/github/followers/h3liaw?label=Follow&style=social)](https://github.com/h3liaw)
 
-<div size='20px'> Hi! I'm Helia. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+---
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+### About Me
+- 👩‍💻 I’m a Web3 developer blending blockchain with modern tech.
+- 💡 Passionate about smart contracts, Rust, JavaScript, Git, and SQL.
+- 🌻 Fun fact: Me gustan los girasoles.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+---
 
-- I am a Web3 dev looking to combine everything with blockchain.
-  I have a passion for learning and sharing my knowledge with others as possible as I can.
-  you can ask me about Smart Contracts, rust, JavaScript, git, sql,...
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+### Skills
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidity.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="40" height="40" alt="Solidity" title="Solidity (via Ethereum logo)"/>
+</p>
 
+---
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/helia-marami-847253210'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/H3liaw'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=H3liaw&theme=tokyonight)](https://git.io/H3liaw)
+### Connect with me 🤝
 
-| ![H3liaw's github stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![H3liaw GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3liaw&theme=tokyonight) |
+<p>
+  <a href="https://www.linkedin.com/in/helia-marami-847253210"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32"/></a>
+  <a href="https://www.twitter.com/NoobCoder07"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32"/></a>
+  <a href="https://medium.com/@adityadeshmukh7350"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" width="32"/></a>
+  <a href="https://github.com/H3liaw"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+| ![Helia's github stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3liaw&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&theme=tokyonight) | ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-<br>
-<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-<br>
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+![Contribution Snake](https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg)
 
------
-Credits: [Helia Marami](https://github.com/H3liaw)
+---
 
-Last Edited on: 04/09/2021
+**Credits**: [Helia Marami](https://github.com/H3liaw)  
+_Last updated: July 2025_
