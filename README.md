@@ -1,7 +1,7 @@
 ## Hello Fellow < Developers/ >! 👋
 
 <div align="center">
-  <img src="https://github.com/H3liaw/helia/blob/main/IMG_7603.jpeg" width="200" />
+  <img src="https://github.com/H3liaw/helia/blob/main/IMG_7604.jpeg" width="200" />
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=H3liaw&style=flat-square&color=blue)
