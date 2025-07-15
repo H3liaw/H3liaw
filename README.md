@@ -4,15 +4,15 @@
   <img src="https://github.com/H3liaw/helia/blob/main/sticker.png" width="200" />
 </div>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=h3liaw.h3liaw)
+![Profile views](https://komarev.com/ghpvc/?username=H3liaw&style=flat-square&color=blue)
 [![Github](https://img.shields.io/github/followers/h3liaw?label=Follow&style=social)](https://github.com/h3liaw)
 
 ---
 
 ### About Me
-- 👩‍💻 I’m a Web3 developer blending blockchain with modern tech.
-- 💡 Passionate about smart contracts, Rust, JavaScript, Git, and SQL.
-- 🌻 Fun fact: Me gustan los girasoles.
+- 👩‍💻 I'm a Web3 developer passionate about integrating blockchain into everyday tech.
+- 🚀 I love building smart contracts and exploring Solidity, JavaScript, and Rust.
+- 🌻 Fun fact: I’m obsessed with tests!
 
 ---
 
@@ -25,8 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="40" height="40" alt="Solidity" title="Solidity (via Ethereum logo)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity"/>
 </p>
+
 
 ---
 
