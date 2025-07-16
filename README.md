@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
+| ![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)| ![Trophies](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | [Joke](https://readme-jokes.vercel.app/api?theme=tokyonight) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight)  |
 
 ---
 
