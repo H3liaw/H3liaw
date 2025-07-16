@@ -56,12 +56,24 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-| ![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
-|:--:|:--:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) |
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="300"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6" width="300"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight" width="400"/></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true" width="1000"/>
+</div>
+
 
 ---
 
