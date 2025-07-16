@@ -56,22 +56,18 @@
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
-      <!-- Joke -->
       <td>
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="330px"/>
       </td>
-
-      <!-- Languages -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6" width="330px"/>
       </td>
-
-      <!-- GitHub Stats -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight" width="330px"/>
       </td>
@@ -81,7 +77,6 @@
 
 <br>
 
-<!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true" width="1000"/>
 </div>
