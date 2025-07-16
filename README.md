@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Stats
 
-| ![Helia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=H3liaw&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![Streak](https://streak-stats.demolab.com?user=H3liaw&theme=tokyonight) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | ![Helia’s GitHub Trophy](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | ![Trophies](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
 
 
 ![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
