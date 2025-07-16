@@ -59,15 +59,12 @@
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=H3liaw&theme=tokyo-night) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3liaw&show_icons=true&theme=tokyonight) | !![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
+|
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3liaw&layout=compact&theme=tokyonight&langs_count=6) | ![Trophies](https://github-profile-trophy.vercel.app/?username=H3liaw&theme=tokyonight&margin-w=15&no-frame=true) |
 
-
 ---
-
-
-![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ![Contribution Snake](https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg)
 
